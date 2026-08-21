@@ -1,0 +1,13 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0,160 C150,200 300,120 450,160 C600,200 750,120 900,160 C1050,200 1150,140 1200,160 L1200,220 L0,220 Z" fill="#0B1120" opacity="0.25"/>
+  <path d="M0,180 C150,215 300,145 450,180 C600,215 750,145 900,180 C1050,215 1150,160 1200,180 L1200,220 L0,220 Z" fill="#0B1120" opacity="0.4"/>
+  <text x="600" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">Awesome Browser Tools</text>
+  <text x="600" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#E5E7EB" text-anchor="middle">Thousands of free extensions &amp; tools, curated for everyone</text>
+</svg>
