@@ -1,13 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:14B8A6&height=220&section=header&text=Awesome%20Browser%20Tools&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thousands%20of%20free%20extensions%20%26%20tools%2C%20curated%20for%20everyone&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,100:14B8A6&amp;height=220&amp;section=header&amp;text=Awesome%20Browser%20Tools&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Thousands%20of%20free%20extensions%20%26%20tools%2C%20curated%20for%20everyone&amp;descAlignY=58&amp;descSize=18" />
 </p>
 
 <p align="center">
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-6366F1?style=for-the-badge" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-14B8A6?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/100%25-Free%20Tools%20Only-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Crusty-chirayu/awesome-browser-tools?style=for-the-badge&color=14B8A6" />
+  <img src="https://img.shields.io/badge/134%2B-Tools%20Listed-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Crusty-chirayu/awesome-browser-tools?style=for-the-badge&amp;color=6366F1" />
 </p>
 
 <p align="center">
@@ -58,5 +59,5 @@ Found a great free tool that's missing? See [CONTRIBUTING.md](CONTRIBUTING.md) â
 [MIT](LICENSE) â€” this list is free to fork, reuse, and remix.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:6366F1&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14B8A6,100:6366F1&amp;height=120&amp;section=footer" />
 </p>
