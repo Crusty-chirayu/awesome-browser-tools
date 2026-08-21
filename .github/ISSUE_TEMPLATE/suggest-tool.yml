@@ -1,0 +1,59 @@
+name: 🧩 Suggest a Tool
+description: Suggest a free browser extension or tool to add to the list
+title: "[Tool]: "
+labels: ["new-tool"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool Name
+      placeholder: "e.g. uBlock Origin"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official Link
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Productivity
+        - Privacy & Security
+        - Developer Tools
+        - AI Tools
+        - Design & Color
+        - SEO & Marketing
+        - Shopping & Deals
+        - Accessibility
+        - Social Media
+        - Misc / Other
+    validations:
+      required: true
+  - type: input
+    id: platforms
+    attributes:
+      label: Platforms
+      placeholder: "Chrome, Firefox, Edge..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line Description
+      placeholder: "What does it do and why is it useful?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This tool is free (or clearly labeled freemium)
+          required: true
+        - label: This is not an affiliate/referral link
+          required: true
