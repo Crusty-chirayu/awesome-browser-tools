@@ -7,7 +7,7 @@
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-6366F1?style=for-the-badge" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-14B8A6?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/100%25-Free%20Tools%20Only-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/134%2B-Tools%20Listed-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/286%2B-Tools%20Listed-14B8A6?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Crusty-chirayu/awesome-browser-tools?style=for-the-badge&amp;color=6366F1" />
 </p>
 
@@ -29,6 +29,7 @@
 - [♿ Accessibility](categories/accessibility.md)
 - [📱 Social Media](categories/social-media.md)
 - [🗂️ Misc / Everything Else](categories/misc.md)
+- [🆕 Addition List 1](categories/addition-list-1.md)
 
 ---
 
