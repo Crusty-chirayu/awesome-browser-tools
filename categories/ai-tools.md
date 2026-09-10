@@ -42,6 +42,10 @@ All-in-one AI copilot for chat, writing, and translation available in a sidebar,
 **Category:** AI Tools · **Platforms:** Chrome, Firefox, Edge  
 AI sidebar for chatting, summarizing pages, and translating, with multiple free model options.
 
+### [StudyArena](https://studyarena.com)
+**Category:** AI Tools · **Platforms:** Web  
+Compare three anonymous AI answers to a study question, vote, then reveal the models; free tier available.
+
 ### [TLDR This](https://www.tldrthis.com/)
 **Category:** AI Tools · **Platforms:** Chrome  
 One-click AI summarizer that condenses long articles into a few key sentences.
