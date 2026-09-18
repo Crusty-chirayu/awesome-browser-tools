@@ -42,6 +42,10 @@ Auto-formats raw JSON responses viewed in the browser into readable, collapsible
 **Category:** Developer Tools · **Platforms:** Chrome  
 Google's built-in auditing tool for performance, accessibility, SEO, and best practices.
 
+### [NextReset](https://nextreset.ai/)
+**Category:** Developer Tools · **Platforms:** Chrome, Firefox, Edge, Safari  
+Tracks Codex reset-history observations and official AI-service incidents with a browser-local personal countdown.
+
 ### [ModHeader](https://modheader.com/)
 **Category:** Developer Tools · **Platforms:** Chrome, Firefox, Edge  
 Modify HTTP request/response headers on the fly for testing APIs.
