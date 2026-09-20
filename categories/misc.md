@@ -43,3 +43,7 @@ Download public Instagram photos and videos directly from your browser.
 ### [Speed Dial 2](https://speeddial2.com/)
 **Category:** Misc · **Platforms:** Chrome, Firefox, Edge  
 Customizable visual bookmarks/new-tab dashboard for your most-used sites.
+
+### [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)
+**Category:** Misc · **Platforms:** Web (any browser)  
+Free MIT static HTML freelance tools (invoice, quote, deposit & hourly-vs-fixed calculators, timesheet). No signup.
