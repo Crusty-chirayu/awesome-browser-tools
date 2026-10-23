@@ -24,6 +24,10 @@ Extracts tabular/list data from any webpage into a spreadsheet with no coding.
 **Category:** Misc · **Platforms:** Chrome, Firefox  
 Strips ads/clutter from a page and exports a clean, printable PDF version.
 
+### [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)
+**Category:** Home & Construction · **Platforms:** Web  
+Estimates U.S. roof replacement cost ranges by roof size, material, tear-off, and location, with no signup required.
+
 ### [TabCloud](https://chromewebstore.google.com/detail/tabcloud)
 **Category:** Misc · **Platforms:** Chrome  
 Save and sync entire browser sessions across computers using local/cloud storage.
