@@ -37,3 +37,7 @@ Open-source tool to mass-unfollow on social platforms in bulk.
 ### [Tab Session Manager](https://chromewebstore.google.com/detail/tab-session-manager)
 **Category:** Social Media · **Platforms:** Chrome, Firefox, Edge  
 Save and restore browsing sessions across devices, useful for social research/monitoring.
+
+### [Text Match Cut](https://textmatchcut.net/)
+**Category:** Social Media · **Platforms:** Web  
+Free online text match cut video maker for TikTok, Reels and Shorts.
