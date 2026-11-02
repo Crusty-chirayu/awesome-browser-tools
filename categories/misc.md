@@ -43,3 +43,7 @@ Download public Instagram photos and videos directly from your browser.
 ### [Speed Dial 2](https://speeddial2.com/)
 **Category:** Misc · **Platforms:** Chrome, Firefox, Edge  
 Customizable visual bookmarks/new-tab dashboard for your most-used sites.
+
+### [My Nine Games](https://myninegames.com/)
+**Category:** Misc · **Platforms:** Any browser (web app, no extension or signup)  
+Free 3×3 "my 9 games" grid maker: search game names, drag to reorder, and download a 1080px PNG.
