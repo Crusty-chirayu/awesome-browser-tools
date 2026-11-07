@@ -36,6 +36,11 @@ Instantly check archived versions of any webpage via the Internet Archive.
 **Category:** Misc · **Platforms:** Chrome  
 Point-and-click web scraper for extracting structured data from multi-page sites.
 
+### [Wordle Helper](https://wordlehelper.co/)
+**Category:** Misc · **Platforms:** Web  
+Free Wordle solver that filters candidate words from your green/yellow/gray clues.
+
+
 ### [Downloader for Instagram](https://chromewebstore.google.com/detail/downloader-for-instagram)
 **Category:** Misc · **Platforms:** Chrome  
 Download public Instagram photos and videos directly from your browser.
