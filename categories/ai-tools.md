@@ -57,3 +57,7 @@ AI summaries of long YouTube videos, broken down by timestamped sections.
 ### [Voice In Voice Typing](https://voicein.aisoftwear.com/)
 **Category:** AI Tools · **Platforms:** Chrome  
 AI-powered speech-to-text dictation that works in any text field on any site.
+
+### [Free AI Humanizer](https://free-ai-humanizer.web-free.site/)
+**Category:** AI Tools · **Platforms:** Web  
+Rule-based rewriter that makes AI-written English text read more naturally, with tone options and a live word counter; runs in the browser, no API key or sign-up.
