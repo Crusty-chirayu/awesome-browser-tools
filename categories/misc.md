@@ -20,6 +20,10 @@ Instantly translate selected text or entire pages into 100+ languages.
 **Category:** Misc · **Platforms:** Chrome, Edge  
 Extracts tabular/list data from any webpage into a spreadsheet with no coding.
 
+### [PDF Fan – Extraer páginas PDF](https://pdf.fan/es/extraer-paginas-pdf/)
+**Category:** Misc · **Platforms:** Chrome (web)  
+Select nonconsecutive pages and save them as a single PDF using a Spanish-language interface.
+
 ### [Print Friendly & PDF](https://www.printfriendly.com/)
 **Category:** Misc · **Platforms:** Chrome, Firefox  
 Strips ads/clutter from a page and exports a clean, printable PDF version.
